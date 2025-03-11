@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bounama2003
 - 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning Deep learning and Reinforcement Learning(RL)
-- 💞️ I’m looking to collaborate on many  proects
+- 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me email:fofanabounama76@gmail.com
 - 😄 Pronouns: Mr.Bouna
 - ⚡ Fun fact: football,game
